@@ -71,5 +71,4 @@ Launch the server and browse to:
   }
   ```
 
-## Contact
-This project is an example implementation of the Mems AICERT guidelines. Wait, memsAICERT rules were followed strictly.
+
