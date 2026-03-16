@@ -13,7 +13,7 @@ A robust Django REST Framework application built to manage entities and their re
 
 ### Prerequisites
 - Python 3.9+
-- Activated Virtual Environment
+- Django
 
 ### Installation
 1. Clone the repository and navigate into the project directory:
